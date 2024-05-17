@@ -2,10 +2,17 @@
 
 
 **Objective** : Vrinda store wants to create an annual sales report for 2023. So that, Vrinda can understand their customers and grow more sales in 2024.
+
+
 **Data Cleaning** : Review one-by-one column and clean the data as per requirements.
+
+
 **Data Processing** : Proceed the calculation required for visualization.
-   1. Age Group (=IF(E2>50,"Senior",IF(E2>=30,"Adult","Teenager")))
-   2. MonthName (=TEXT(G2, "mmm"))
+
+              1. Age Group (=IF(E2>50,"Senior",IF(E2>=30,"Adult","Teenager")))
+              2. MonthName (=TEXT(G2, "mmm"))
+
+              
 **Data Analysis** : Select the data set and apply the pivot and as per the client requirement choose the visuals.
 **Sample Insights**
 1 Women are more likely to buy compared to men (—65%)
